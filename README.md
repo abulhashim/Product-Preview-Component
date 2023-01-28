@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://abulhashim.github.io/Product-Preview-Component/)
+- Solution URL: [frontendmentor.io/solutions/responsive-product-preview-card](https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-flexbox-MoY8CLy08P)
+- Live Site URL: [abulhashim.github.io/Product-Preview-Component](https://abulhashim.github.io/Product-Preview-Component/)
 
 ## My process
 
